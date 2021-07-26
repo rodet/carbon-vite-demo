@@ -1,17 +1,21 @@
 {
   "name": "carbon-vite-demo",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
   },
   "dependencies": {
+    "carbon-components": "^10.39.0",
+    "carbon-components-react": "^7.39.0",
+    "carbon-icons": "^7.0.7",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react-refresh": "^1.3.1",
+    "sass": "^1.35.2",
     "vite": "^2.4.3"
   }
 }
