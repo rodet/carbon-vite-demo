@@ -10,10 +10,10 @@ function App() {
     <div className="App">
       <TutorialHeader></TutorialHeader>
       <header className="App-header">
-        <p>Hello Vite + React!</p>
+        <p>Hello Vite + React + Carbon!</p>
         <p>
           <Button type="button" onClick={() => setCount((count) => count + 1)}>
-            count is: {count}
+            Count is: {count}
           </Button>
         </p>
         <p>
